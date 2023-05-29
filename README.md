@@ -25,7 +25,7 @@ Independent Security Researcher | Security Researcher @SpearbitDAO | Certified W
 | Bond Protocol           | Enables the creation of Olympus-style bond markets for any token pair | Sherlock  | 1st  |
 | Notional                | Protocol that facilitates fixed-rate, fixed-term crypto asset lending and borrowing | Sherlock  | 1st  |
 | Sentiment               | Liquidity protocol that enables onchain permissionless undercollateralized borrowing | Sherlock  | 6th  |
-| HarpieO                 | n-chain firewall stopping hacks before they ever get on-chain | Sherlock  | 16th |
+| Harpie                 | On-chain firewall stopping hacks before they ever get on-chain | Sherlock  | 16th |
 | Fractional              | Collective ownership platform for NFTs on Ethereum.          | Code4rena | 15th |
 | Axelar Network          | Decentralized interoperability network.                      | Code4rena | 2nd  |
 | Connext Network         | Cross-chain liquidity network enabling fully non-custodial transfers between EVM compatible chains and L2 systems | Code4rena | 1st  |
