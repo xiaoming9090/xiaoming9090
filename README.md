@@ -2,6 +2,8 @@
 
 Independent Security Researcher | Security Researcher @SpearbitDAO | Certified Warden [@code4rena](https://github.com/code4rena) | Senior Watson @sherlockdefi
 
+Previous Life: 8 years of experience in reputable cybersecurity firms performing a wide range of security engagements for clients around the globe.
+
 ### Private Audits
 
 | Project           | Description                                                  | Platform |
