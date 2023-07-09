@@ -1,6 +1,6 @@
 ### About Me
 
-Independent Security Researcher | Security Researcher @SpearbitDAO | Certified Warden [@code4rena](https://github.com/code4rena) | Senior Watson @sherlockdefi
+Independent Security Researcher | Security Researcher [@SpearbitDAO](https://twitter.com/SpearbitDAO) | Certified Warden [@code4rena](https://twitter.com/code4rena) | Senior Watson [@sherlockdefi](https://twitter.com/sherlockdefi)
 
 Previous Life: 8 years of experience in reputable cybersecurity firms performing a wide range of security engagements for clients around the globe.
 
@@ -8,9 +8,9 @@ Previous Life: 8 years of experience in reputable cybersecurity firms performing
 
 | Project           | Description                                                  | Platform |
 | ----------------- | ------------------------------------------------------------ | -------- |
-| Kiln              | Enterprise-grade staking solutions                           | Spearbit |
+| Kiln              | Leading enterprise-grade staking platform, enabling institutional customers to stake programmatically their digital assets, and to whitelabel staking functionality into their offering | Spearbit |
 | Liquid Collective | Enterprise-grade liquid staking protocol built on Ethereum   | Spearbit |
-| Velodrome Finance | Trading and liquidity marketplace on Optimism                | Spearbit |
+| Velodrome Finance | Next-generation AMM that combines the best of Curve, Convex and Uniswap, designed to serve as Optimism's central liquidity hub | Spearbit |
 | Polygon zkEVM     | Decentralized Ethereum Layer 2 scalability solution that uses cryptographic zero-knowledge proofs to offer validity and quick finality to off-chain transaction computation | Spearbit |
 | Connext Network   | Cross-chain liquidity network enabling fully non-custodial transfers between EVM compatible chains and L2 systems | Spearbit |
 
@@ -18,14 +18,14 @@ Previous Life: 8 years of experience in reputable cybersecurity firms performing
 
 | Contest                               | Description                                                  | Platform  | Rank |
 | ------------------------------------- | ------------------------------------------------------------ | --------- | ---- |
-| Velodrome Finance                     | Trading and liquidity marketplace on Optimism                | Code4rena | 1st  |
+| Velodrome Finance                     | Next-generation AMM that combines the best of Curve, Convex and Uniswap, designed to serve as Optimism's central liquidity hub | Code4rena | 1st  |
 | Connext Network                       | Cross-chain liquidity network enabling fully non-custodial transfers between EVM compatible chains and L2 systems | Code4rena | 1st  |
 | Nibbl                                 | NFT fractionalization protocol with guaranteed liquidity and price-based buyout. | Code4rena | 1st  |
 | Notional V3                           | Protocol that facilitates fixed-rate, fixed-term crypto asset lending and borrowing | Sherlock  | 1st  |
-| Notional (Leveraged Vault)            | Protocol that facilitates fixed-rate, fixed-term crypto asset lending and borrowing | Sherlock  | 1st  |
-| Notional (Leveraged Vault) Update #1 | Protocol that facilitates fixed-rate, fixed-term crypto asset lending and borrowing | Sherlock  | 1st  |
-| Notional (Leveraged Vault) Update #2  | Protocol that facilitates fixed-rate, fixed-term crypto asset lending and borrowing | Sherlock  | 1st  |
-| Redacted Cartel                       | Complimentary subDAO for OlympusDAO.                         | Code4rena | 1st  |
+| Notional (Leveraged Vault)            | Leveraged vaults that increase capital efficiency and turbocharge user returns with highly leveraged exposure to whitelisted DeFi yield strategies | Sherlock  | 1st  |
+| Notional (Leveraged Vault) Update #1 | Leveraged vaults that increase capital efficiency and turbocharge user returns with highly leveraged exposure to whitelisted DeFi yield strategies | Sherlock  | 1st  |
+| Notional (Leveraged Vault) Update #2  | Leveraged vaults that increase capital efficiency and turbocharge user returns with highly leveraged exposure to whitelisted DeFi yield strategies | Sherlock  | 1st  |
+| Redacted Cartel                       | dApp centered around BTRFLY, which allows users to stake, earn incentives, and interact with governance proposals | Code4rena | 1st  |
 | Bond Protocol                         | Enables the creation of Olympus-style bond markets for any token pair | Sherlock  | 1st  |
 | veToken Finance                       | Enables DeFi users to boost their yield and farming rewards  | Code4rena | 2nd  |
 | Axelar Network                        | Decentralized interoperability network.                      | Code4rena | 2nd  |
