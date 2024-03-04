@@ -1,6 +1,6 @@
 ### About Me
 
-I'm an independent security researcher specializing in smart contract audits with a proven track record in public audit contests (with 19 top-three finishings) and extensive experience auditing complex and high-profile protocols. Currently, I'm a Security Researcher at [@SpearbitDAO](https://twitter.com/SpearbitDAO), Lead Senior Watson at [@sherlockdefi](https://twitter.com/sherlockdefi), and Certified Warden at [@code4rena](https://twitter.com/code4rena).
+I'm an independent security researcher specializing in smart contract audits with a proven track record in public audit contests (with 20 top-three finishings) and extensive experience auditing complex and high-profile protocols. Currently, I'm a Security Researcher at [@SpearbitDAO](https://twitter.com/SpearbitDAO), Lead Senior Watson at [@sherlockdefi](https://twitter.com/sherlockdefi), and Certified Warden at [@code4rena](https://twitter.com/code4rena).
 
 Previous Life: 8 years of experience in reputable cybersecurity firms performing a wide range of security engagements for clients around the globe.
 
