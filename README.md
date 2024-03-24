@@ -1,6 +1,6 @@
 ### About Me
 
-I'm an independent security researcher specializing in smart contract audits with a proven track record in public audit contests (with 20 top-three finishings) and extensive experience auditing complex and high-profile protocols. Currently, I'm a Security Researcher at [@SpearbitDAO](https://twitter.com/SpearbitDAO), Lead Senior Watson at [@sherlockdefi](https://twitter.com/sherlockdefi), and Certified Warden at [@code4rena](https://twitter.com/code4rena).
+I'm an independent security researcher specializing in smart contract audits with a proven track record in public audit contests (with 21 top-three finishings) and extensive experience auditing complex and high-profile protocols. Currently, I'm a Security Researcher at [@SpearbitDAO](https://twitter.com/SpearbitDAO), Lead Senior Watson at [@sherlockdefi](https://twitter.com/sherlockdefi), and Certified Warden at [@code4rena](https://twitter.com/code4rena).
 
 Previous Life: 8 years of experience in reputable cybersecurity firms performing a wide range of security engagements for clients around the globe.
 
@@ -10,7 +10,7 @@ For other business opportunities, potential collaboration, or team audits, feel 
 
 ### Highlights
 
-- Ranked in the top 3 in 20 public audit contests at Code4rena and Sherlock
+- Ranked in the top 3 in 21 public audit contests at Code4rena and Sherlock
 - Achieved #1 ranking on Sherlock's audit leaderboard [[1]](https://twitter.com/xiaoming9090/status/1721875425130115525)
 - Achieved #1 ranking on Code4rena's leaderboard (last 90 days) on September 2022
 - Serve as the Lead Senior Watson for 14 audit contests in Sherlock
@@ -30,6 +30,7 @@ For other business opportunities, potential collaboration, or team audits, feel 
 
 | Contest                              | Description                                                  | &nbsp;&nbsp;&nbsp;Ranking&nbsp;&nbsp;&nbsp; | Platform  |
 | ------------------------------------ | ------------------------------------------------------------ | :-----------------------------------------: | :-------: |
+| Napier Finance                           |  Liquidity hub for yield trading built as an extension of Curve Finance |                  🥇1 / 198                   | Sherlock  |
 | Flat Money                           | Protocol that enables rETH leverage via perpetual futures contracts and allows users to mint decentralized delta-neutral flatcoin designed to outpace inflation |                  🥇1 / 257                   | Sherlock  |
 | Tokemak (Autopilot)                  | LP-centric utility that optimizes yields for LPs across different pools and DEXs |                  🥇1 / 447                   | Sherlock  |
 | Velodrome Finance                    | Next-generation AMM that combines the best of Curve, Convex and Uniswap, designed to serve as Optimism's central liquidity hub |                  🥇1 / 70+                   | Code4rena |
