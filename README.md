@@ -11,7 +11,7 @@ For other business opportunities, potential collaboration, or team audits, feel 
 ### Highlights
 
 - Ranked in the top 3 in 20 public audit contests at Code4rena and Sherlock
-- Achieved #1 ranking on Sherlock's audit leaderboard
+- Achieved #1 ranking on Sherlock's audit leaderboard [[1]](https://twitter.com/xiaoming9090/status/1721875425130115525)
 - Achieved #1 ranking on Code4rena's leaderboard (last 90 days) on September 2022
 - Serve as the Lead Senior Watson for 14 audit contests in Sherlock
 
