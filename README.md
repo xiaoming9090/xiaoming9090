@@ -21,6 +21,7 @@ For other business opportunities, potential collaboration, or team audits, feel 
 
 | Project              | Description                                                  | Platform |
 | -------------------- | ------------------------------------------------------------ | -------- |
+| Karak                 | A universal restaking layer that makes it easy to provide cryptoeconomic security with any asset | Code4rena (Pro League) |
 | Pendle                 | A decentralized finance protocol that allows users to tokenize and sell future yields | Spearbit |
 | Kiln                 | Leading enterprise-grade staking platform, enabling institutional customers to stake programmatically their digital assets, and to whitelabel staking functionality into their offering | Spearbit |
 | Liquid Collective    | Enterprise-grade liquid staking protocol built on Ethereum   | Spearbit |
