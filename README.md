@@ -1,6 +1,6 @@
 ### About Me
 
-I'm an independent security researcher specializing in smart contract audits with a proven track record in public audit contests (with 27 top-three finishings) and extensive experience auditing complex and high-profile protocols. Currently, I'm a Security Researcher at [@SpearbitDAO](https://twitter.com/SpearbitDAO), Lead Senior Watson at [@sherlockdefi](https://twitter.com/sherlockdefi), and Certified Warden at [@code4rena](https://twitter.com/code4rena).
+I'm an independent security researcher specializing in smart contract audits with a proven track record in public audit contests (with 28 top-three finishings) and extensive experience auditing complex and high-profile protocols. Currently, I'm a Security Researcher at [@SpearbitDAO](https://twitter.com/SpearbitDAO), Lead Senior Watson at [@sherlockdefi](https://twitter.com/sherlockdefi), and Certified Warden at [@code4rena](https://twitter.com/code4rena).
 
 Previous Life: 8 years of experience in reputable cybersecurity firms performing a wide range of security engagements for clients around the globe.
 
@@ -10,7 +10,7 @@ For other business opportunities, potential collaboration, or team audits, feel 
 
 ### Highlights
 
-- Ranked in the top 3 in 27 audit contests at Code4rena and Sherlock
+- Ranked in the top 3 in 28 audit contests at Code4rena and Sherlock
 - Achieved #1 ranking on Sherlock's audit leaderboard [[1]](https://twitter.com/xiaoming9090/status/1721875425130115525)
 - Achieved #1 ranking on Code4rena's leaderboard (last 90 days) on September 2022
 - Serve as the Lead Senior Watson for 18 audit contests in Sherlock
@@ -38,6 +38,7 @@ For other business opportunities, potential collaboration, or team audits, feel 
 
 | Contest                              | Description                                                  | &nbsp;&nbsp;&nbsp;Ranking&nbsp;&nbsp;&nbsp; | Platform  |
 | ------------------------------------ | ------------------------------------------------------------ | :-----------------------------------------: | :-------: |
+| SYMMIO v0.84 Update           | A derivatives Peer2Peer clearing infrastructure, enabling LPs to provide synthetic leveraged exposure to any asset. |                  🥇1 / 69                   | Sherlock  |
 | SYMMIO v0.83 Update           | A derivatives Peer2Peer clearing infrastructure, enabling LPs to provide synthetic leveraged exposure to any asset. |                  🥇1 / 57                   | Sherlock  |
 | TITLES Publishing Protocol           | TITLES creates tools with artist-owned AI for publishing referential NFTs, managing attribution, and splitting payments with creators. |                  🥇1 / 201                   | Sherlock  |
 | Napier Finance                       | Liquidity hub for yield trading built as an extension of Curve Finance |                  🥇1 / 198                   | Sherlock  |
